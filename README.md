@@ -1,2 +1,2 @@
 # cap3d
-sun-following lens system, based on RPI and stepper motors
+This is custom project for sun-following lens system, based on RPI and stepper motors. Not working.
